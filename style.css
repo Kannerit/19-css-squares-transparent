@@ -1,0 +1,38 @@
+body{
+    background-color: #f5fddf;
+}
+
+#box1 {
+    background-color: black;
+    height: 120px;
+    width: 120px;   
+    margin: auto;
+    margin-top: 40px;
+}
+
+#box2 {
+    background-color: black;
+    opacity: 73%;
+    height: 120px;
+    width: 120px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#box3 {
+    background-color: black;
+    opacity: 50%;
+    height: 120px;
+    width: 120px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#box4 {
+    background-color: black;
+    opacity: 22%;
+    height: 120px;
+    width: 120px;
+    margin: auto;
+    margin-top: 10px;
+}
